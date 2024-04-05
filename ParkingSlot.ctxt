@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=ParkingSlot
+comment0.text=\r\n\ Represents\ a\ parking\ slot\ with\ a\ car\ and\ occupied\ status.\r\n
+comment1.params=
+comment1.target=ParkingSlot()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ ParkingSlot\r\n
+comment2.params=
+comment2.target=boolean\ isOccupied()
+comment2.text=\r\n\ Get\ the\ occupied\ status\ of\ the\ parking\ slot\r\n\ \r\n\ @return\r\n
+comment3.params=
+comment3.target=Car\ getCar()
+comment3.text=\r\n\ Get\ the\ car\ in\ the\ parking\ slot\r\n\ \r\n\ @return\r\n
+comment4.params=car
+comment4.target=void\ parkCar(Car)
+comment4.text=\r\n\ Park\ a\ car\ in\ the\ parking\ slot\r\n\ \r\n\ @param\ car\r\n
+comment5.params=
+comment5.target=void\ removeCar()
+comment5.text=\r\n\ Remove\ a\ car\ from\ the\ parking\ slot\r\n
+numComments=6

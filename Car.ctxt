@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Car
+comment0.text=\r\n\ Represents\ a\ car\ with\ a\ registration\ number,\ make,\ model,\ and\ year.\r\n
+comment1.params=registrationNumber\ isStaff
+comment1.target=Car(java.lang.String,\ boolean)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Car\r\n\ \r\n\ @param\ registrationNumber\r\n\ @param\ isStaff\r\n
+comment2.params=
+comment2.target=java.lang.String\ getRegistrationNumber()
+comment2.text=\r\n\ Get\ the\ registration\ number\ of\ the\ car\r\n\ \r\n\ @return\r\n
+comment3.params=
+comment3.target=boolean\ isStaff()
+comment3.text=\r\n\ Get\ the\ staff\ status\ of\ the\ car\r\n\ \r\n\ @return\r\n
+numComments=4
